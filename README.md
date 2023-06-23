@@ -3,7 +3,7 @@ Desktop application to send/receive capture card video feed/file data to/from Mi
 
 Learn more about MARVIN here in [our report](https://github.com/kenny101/MARVIN-Desktop/blob/main/ECE%20191%20-%20Final%20Report.pdf)
 
-Learn more about how HoloLens 2 is enhancing patient treatment and enabling healthcare providers to work together more effectively and efficiently [here](https://www.microsoft.com/en-us/hololens/industry-healthcare).
+Learn more about how HoloLens2 applications to in the healthcare industry [here](https://www.microsoft.com/en-us/hololens/industry-healthcare).
 
 
 ## High-Level Abtracted System Diagram of how MARVIN works:
