@@ -14,6 +14,6 @@ Features:
 - Send and receive files such as DICOM bidirectionally between Hololens and desktop application with a desktop drag and drop upload
 - View and send capture card sources to hololens for viewing. Capture cards are used to capture the monitoring systems in medical facilities which is then processed on the desktop application 
 
-Project Sponsor: Karim Kader, MD, PhD: Urologist and Urologic Cancer Specialist
-Project Members: Steve Morales, Nicolas Demello, Kenny Chan, Arsalan Sepahpour 
+**Project Sponsor: ** Karim Kader, MD, PhD: Urologist and Urologic Cancer Specialist
+**Project Members:** Steve Morales, Nicolas Demello, Kenny Chan, Arsalan Sepahpour 
 
