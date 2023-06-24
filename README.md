@@ -1,5 +1,5 @@
 # MARVIN (Medical Augmented Reality Visualizer for Intuitive Navigation) Desktop App
-Desktop application to send/receive capture card video feed/file data to/from Microsoft Hololens 2, a mixed reality headset. This application communicates with a Unity application which handles the UI of the headset. This project is currently closed source.
+Desktop application to send/receive capture card video feed/file data to/from Microsoft Hololens 2, a mixed reality headset. This application communicates with a Unity application which handles the UI of the headset. <b> This project is currently closed source. </b>
 
 Learn more about MARVIN here in [our report.](https://github.com/kenny101/MARVIN-Desktop/blob/main/ECE%20191%20-%20Final%20Report.pdf)
 
