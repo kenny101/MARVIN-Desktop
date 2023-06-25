@@ -13,8 +13,6 @@ Learn more about how HoloLens2 applications to in the healthcare industry [here]
 ![user-interface-of-marvin](https://github.com/kenny101/MARVIN-Desktop/assets/53395124/4e72d50e-1ff9-460e-b41b-b07842ecd41e)
 
 ## Hololens2 Interface:
-Demo of Steve using hololens to drag the DICOM file and drawing in AR space.
-
 https://github.com/kenny101/MARVIN-Desktop/assets/53395124/7389fcb2-1450-4c02-bfa2-8cdd022084fb
 
 
