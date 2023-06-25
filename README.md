@@ -13,7 +13,7 @@ Learn more about how HoloLens2 applications to in the healthcare industry [here]
 ![user-interface-of-marvin](https://github.com/kenny101/MARVIN-Desktop/assets/53395124/4e72d50e-1ff9-460e-b41b-b07842ecd41e)
 
 ## Hololens 2 Interface:
-https://github.com/kenny101/MARVIN-Desktop/assets/53395124/728d46c6-f1f0-4df6-bfd0-bd740c17c5a3
+https://github.com/kenny101/MARVIN-Desktop/assets/53395124/bd01f9fd-73ce-4c67-aea4-eda6aee7cce8
 
 
 Features:
