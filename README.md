@@ -9,11 +9,11 @@ Learn more about how HoloLens2 applications to in the healthcare industry [here]
 ## High-Level Abtracted System Diagram of how MARVIN works:
 ![image](https://github.com/kenny101/MARVIN-Desktop/assets/53395124/85b4f1e2-a7a3-4a36-8eac-3358b05d4259)
 
-## Capture Card Interface:
+## Capture Card Selection Interface:
 ![user-interface-of-marvin](https://github.com/kenny101/MARVIN-Desktop/assets/53395124/4e72d50e-1ff9-460e-b41b-b07842ecd41e)
 
-## Hololens 2 Interface:
-https://github.com/kenny101/MARVIN-Desktop/assets/53395124/bd01f9fd-73ce-4c67-aea4-eda6aee7cce8
+## Hololens2 Interface:
+https://github.com/kenny101/MARVIN-Desktop/assets/53395124/13e6338f-206f-4465-985b-48fb540a9e44
 
 
 Features:
