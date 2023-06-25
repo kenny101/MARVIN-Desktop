@@ -13,7 +13,8 @@ Learn more about how HoloLens2 applications to in the healthcare industry [here]
 ![user-interface-of-marvin](https://github.com/kenny101/MARVIN-Desktop/assets/53395124/4e72d50e-1ff9-460e-b41b-b07842ecd41e)
 
 ## Hololens2 Interface:
-https://lh5.googleusercontent.com/hyBviVQc2pTlAR8i5GuTipRopXtPT_tX0TGtFOLySQIMG_jIvzzFh8Vhim5nJGbfasLmMrMsICiwxHwfKRpHRYgT1aJBhrQvpVNC2tVZFSLy6E9LSq4BrpZzUE9BekDF7XnI_nQkkGDv2G2-q4fd-dw_LQ=s2048
+
+![Alt Text](https://lh5.googleusercontent.com/hyBviVQc2pTlAR8i5GuTipRopXtPT_tX0TGtFOLySQIMG_jIvzzFh8Vhim5nJGbfasLmMrMsICiwxHwfKRpHRYgT1aJBhrQvpVNC2tVZFSLy6E9LSq4BrpZzUE9BekDF7XnI_nQkkGDv2G2-q4fd-dw_LQ=s2048)
 
 Features:
 - Send and receive files such as DICOM bidirectionally between Hololens and desktop application with a desktop drag and drop upload
