@@ -16,7 +16,7 @@ Learn more about how HoloLens2 applications to in the healthcare industry [here]
 https://github.com/kenny101/MARVIN-Desktop/assets/53395124/7389fcb2-1450-4c02-bfa2-8cdd022084fb
 
 
-Features:
+Features (In-Progress):
 - Send and receive files such as DICOM bidirectionally between Hololens and desktop application with a desktop drag and drop upload
 - View and send capture card sources to hololens for viewing. Capture cards are used to capture the monitoring systems in medical facilities which is then processed on the desktop application 
 
