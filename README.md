@@ -9,6 +9,9 @@ Learn more about how HoloLens2 applications to in the healthcare industry [here]
 ## High-Level Abtracted System Diagram of how MARVIN works:
 ![image](https://github.com/kenny101/MARVIN-Desktop/assets/53395124/85b4f1e2-a7a3-4a36-8eac-3358b05d4259)
 
+## Capture Card Interface:
+![user-interface-of-marvin](https://github.com/kenny101/MARVIN-Desktop/assets/53395124/4e72d50e-1ff9-460e-b41b-b07842ecd41e)
+
 
 Features:
 - Send and receive files such as DICOM bidirectionally between Hololens and desktop application with a desktop drag and drop upload
